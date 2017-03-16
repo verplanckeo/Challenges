@@ -1,0 +1,9 @@
+C:\Users\olivier.verplancke.ARTILIUM\Documents\Visual Studio 2015\Projects\ConsoleApplication1\FunctionalMethodsTest\bin\Debug\FunctionalMethodsTest.dll
+C:\Users\olivier.verplancke.ARTILIUM\Documents\Visual Studio 2015\Projects\ConsoleApplication1\FunctionalMethodsTest\bin\Debug\FunctionalMethodsTest.pdb
+C:\Users\olivier.verplancke.ARTILIUM\Documents\Visual Studio 2015\Projects\ConsoleApplication1\FunctionalMethodsTest\bin\Debug\FunctionalMethods.dll
+C:\Users\olivier.verplancke.ARTILIUM\Documents\Visual Studio 2015\Projects\ConsoleApplication1\FunctionalMethodsTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\olivier.verplancke.ARTILIUM\Documents\Visual Studio 2015\Projects\ConsoleApplication1\FunctionalMethodsTest\bin\Debug\FunctionalMethods.pdb
+C:\Users\olivier.verplancke.ARTILIUM\Documents\Visual Studio 2015\Projects\ConsoleApplication1\FunctionalMethodsTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\olivier.verplancke.ARTILIUM\Documents\Visual Studio 2015\Projects\ConsoleApplication1\FunctionalMethodsTest\obj\Debug\FunctionalMethodsTest.csprojResolveAssemblyReference.cache
+C:\Users\olivier.verplancke.ARTILIUM\Documents\Visual Studio 2015\Projects\ConsoleApplication1\FunctionalMethodsTest\obj\Debug\FunctionalMethodsTest.dll
+C:\Users\olivier.verplancke.ARTILIUM\Documents\Visual Studio 2015\Projects\ConsoleApplication1\FunctionalMethodsTest\obj\Debug\FunctionalMethodsTest.pdb
