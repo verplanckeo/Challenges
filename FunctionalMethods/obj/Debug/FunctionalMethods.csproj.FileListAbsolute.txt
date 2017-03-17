@@ -1,4 +1,0 @@
-C:\Users\olivier.verplancke.ARTILIUM\Documents\Visual Studio 2015\Projects\ConsoleApplication1\FunctionalMethods\bin\Debug\FunctionalMethods.dll
-C:\Users\olivier.verplancke.ARTILIUM\Documents\Visual Studio 2015\Projects\ConsoleApplication1\FunctionalMethods\bin\Debug\FunctionalMethods.pdb
-C:\Users\olivier.verplancke.ARTILIUM\Documents\Visual Studio 2015\Projects\ConsoleApplication1\FunctionalMethods\obj\Debug\FunctionalMethods.dll
-C:\Users\olivier.verplancke.ARTILIUM\Documents\Visual Studio 2015\Projects\ConsoleApplication1\FunctionalMethods\obj\Debug\FunctionalMethods.pdb
